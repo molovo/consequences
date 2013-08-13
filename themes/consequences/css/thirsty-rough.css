@@ -1,0 +1,73 @@
+/* @license
+ * MyFonts Webfont Build ID 2434604, 2012-12-19T13:37:15-0500
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Thirsty Rough Textures by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-rough/textures/
+ * Copyright: Copyright (c) 2012 by Yellow Desing Studio. All rights reserved.
+ *
+ *
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2434604
+ *
+ * © 2012 Bitstream Inc
+*/
+
+.ThirstyRough { font-family: "ThirstyRough"; }
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/25262c");
+@import url("//hello.myfonts.net/count/252608");
+
+@font-face {
+	font-family: 'ThirstyRoughTextures';
+	src: url('../fonts/25262C_0_0.eot');
+	src: url('../fonts/25262C_0_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/25262C_0_0.woff') format('woff'),
+		 url('../fonts/25262C_0_0.ttf') format('truetype'),
+		 url('../fonts/25262C_0_0.svg#wf') format('svg');
+}
+
+@font-face {
+	font-family: 'ThirstyRough';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/252608_0_0.eot');
+	src: url('../fonts/252608_0_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/252608_0_0.woff') format('woff'),
+		 url('../fonts/252608_0_0.ttf') format('truetype'),
+		 url('../fonts/252608_0_0.svg#wf') format('svg');
+}
+
+@font-face {
+	font-family: 'ThirstyRoughLtShd';
+	src: url('../fonts/252608_1_0.eot');
+	src: url('../fonts/252608_1_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/252608_1_0.woff') format('woff'),
+		 url('../fonts/252608_1_0.ttf') format('truetype'),
+		 url('../fonts/252608_1_0.svg#wf') format('svg');
+}
+
+@font-face {
+	font-family: 'ThirstyRoughBolShd';
+	src: url('../fonts/252608_2_0.eot');
+	src: url('../fonts/252608_2_0.eot?#iefix') format('embedded-opentype'),
+	 	 url('../fonts/252608_2_0.woff') format('woff'),
+	 	 url('../fonts/252608_2_0.ttf') format('truetype'),
+	 	 url('../fonts/252608_2_0.svg#wf') format('svg');
+}
+
+@font-face {
+	font-family: 'ThirstyRough';
+	font-weight: bold;
+	font-style: normal;
+	src: url('../fonts/252608_3_0.eot');
+	src: url('../fonts/252608_3_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/252608_3_0.woff') format('woff'),
+		 url('../fonts/252608_3_0.ttf') format('truetype'),
+		 url('../fonts/252608_3_0.svg#wf') format('svg');
+}
